@@ -1,4 +1,4 @@
-# Hi! I'm Gauri:
+# Hi, I'm Gauri!
 A third-year Computer Science Engineering Student who loves building impactful and user-friendly applications.  <br>I enjoy learning new technologies, contributing to open-source, and turning ideas into real products.<br>💻 Passionate about software development and problem-solving  <br>🌱 Constantly exploring emerging tools and frameworks  <br>🤝 Open to collaborating on innovative and meaningful projects  <br>🚀 Striving to create solutions that make a difference<br>
 
 
