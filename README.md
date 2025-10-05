@@ -12,4 +12,4 @@ A third-year Computer Science Engineering Student who loves building impactful a
 ![](https://nirzak-streak-stats.vercel.app/?user=ChauhanGauri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanGauri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
